@@ -1,4 +1,7 @@
-#  Task Management System
+**Name: Collado, Lawrence Ally N.**
+
+
+                                    **#  Task Management System**
 
 A Laravel-based task management application for organizing and tracking daily tasks with categories and due dates.
 
